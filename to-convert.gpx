@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="Routes 2.8.3 (416) - http://routes-navigation.de"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+    <trk>
+        <name>Routes-Recorded-2022-01-26 (09-39h).gpx</name>
+        <trkseg>
+            <trkpt lat="39.97659833" lon="-74.97788375">
+                <ele>7.314483642578125</ele>
+                <time>2022-01-26T14:37:23Z</time>
+                <speed>0.77</speed>
+            </trkpt>
+            <trkpt lat="39.97662909" lon="-74.97793978">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:37:28Z</time>
+                <speed>0.47</speed>
+            </trkpt>
+            <trkpt lat="39.97666809" lon="-74.97794291">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:37:40Z</time>
+                <speed>0.73</speed>
+            </trkpt>
+            <trkpt lat="39.97670392" lon="-74.97791942">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:37:48Z</time>
+                <speed>0.66</speed>
+            </trkpt>
+            <trkpt lat="39.97667646" lon="-74.97787999">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:00Z</time>
+                <speed>1.03</speed>
+            </trkpt>
+            <trkpt lat="39.97662202" lon="-74.97789654">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:06Z</time>
+                <speed>1.08</speed>
+            </trkpt>
+            <trkpt lat="39.97658484" lon="-74.97792917">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:10Z</time>
+                <speed>1.58</speed>
+            </trkpt>
+            <trkpt lat="39.97655035" lon="-74.9779653">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:14Z</time>
+                <speed>0.95</speed>
+            </trkpt>
+            <trkpt lat="39.97650845" lon="-74.9780024">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:18Z</time>
+                <speed>1.28</speed>
+            </trkpt>
+            <trkpt lat="39.97647832" lon="-74.97804642">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:22Z</time>
+                <speed>1.09</speed>
+            </trkpt>
+            <trkpt lat="39.97643938" lon="-74.97807569">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:26Z</time>
+                <speed>1.05</speed>
+            </trkpt>
+            <trkpt lat="39.97638882" lon="-74.97809473">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:30Z</time>
+                <speed>1.41</speed>
+            </trkpt>
+            <trkpt lat="39.97634309" lon="-74.97810652">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:34Z</time>
+                <speed>1.16</speed>
+            </trkpt>
+            <trkpt lat="39.97629453" lon="-74.97812862">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:38Z</time>
+                <speed>1.38</speed>
+            </trkpt>
+            <trkpt lat="39.97625887" lon="-74.97816884">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:42Z</time>
+                <speed>1.14</speed>
+            </trkpt>
+            <trkpt lat="39.97622759" lon="-74.97821353">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:46Z</time>
+                <speed>1.27</speed>
+            </trkpt>
+            <trkpt lat="39.97619722" lon="-74.97825654">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:50Z</time>
+                <speed>1.01</speed>
+            </trkpt>
+            <trkpt lat="39.97616259" lon="-74.97830062">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:54Z</time>
+                <speed>1.25</speed>
+            </trkpt>
+            <trkpt lat="39.97612061" lon="-74.97834145">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:38:58Z</time>
+                <speed>1.1</speed>
+            </trkpt>
+            <trkpt lat="39.97610747" lon="-74.97825108">
+                <ele>1.5186767578125</ele>
+                <time>2022-01-26T14:39:30Z</time>
+                <speed>0.23</speed>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
