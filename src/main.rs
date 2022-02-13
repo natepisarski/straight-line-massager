@@ -1,11 +1,12 @@
 extern crate clap;
 extern crate minidom;
 
+use std::fs;
 use std::fs::File;
 use std::io::Read;
-use clap::{Arg, App, SubCommand};
+use clap::{Arg, App};
 use minidom::Element;
-
+use std::io::Write;
 
 fn main() {
     let app = App::new("Straight Line Massager")
@@ -45,12 +46,20 @@ fn main() {
 
     let mut csv_contents: Vec<(String, String)> = vec!();
 
-    for point in all_track_points {
-        let latitude = String::from(point.attr("lat").unwrap());
-        let longitude = String::from(point.attr("lon").unwrap());
+    let mut csv_string: String = String::new();
 
-        csv_contents.push((latitude, longitude));
+    for point in all_track_points {
+        let latitude = point.attr("lat").unwrap();
+        let longitude = point.attr("lon").unwrap();
+
+        // csv_contents.push((latitude, longitude));
+        csv_string.push_str(latitude);
+        csv_string.push_str(",");
+        csv_string.push_str(longitude);
+        csv_string.push_str("\n");
     }
+
+    fs::write("converted.csv", csv_string);
 
     println!("Hello, world! {:#?}", csv_contents);
 }
