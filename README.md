@@ -1,4 +1,6 @@
 # Straight-Line Massager
+![Example of a Straight Line in Union Lake, New Jersey](https://i.imgur.com/2VsQcv6.png "Straight Line: Union Lake")
+
 Straight-Line missions are a real-world Adventure similar to Geocaching. You start from an 'origin',
 and then walk in a completely straight line to your destination. The adventure was conceived
 and spearheaded by a Youtuber named [GeoWizard](https://www.youtube.com/c/GeoWizard).
